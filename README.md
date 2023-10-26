@@ -1,2 +1,2 @@
 # flaskmail
-A Flask App that Sends Emails from a Gmail Account
+A Flask App that Sends Email from a Gmail Account
